@@ -1,0 +1,7 @@
+Tweets,User,Slur Words,Total Word Count,Slurs Count,Deg. Profanity
+Support Racism,['@user1'],racism,2,1,0.5
+Make racism wrong again,['@user2'],racism,4,1,0.25
+Do not discriminate,['@user3'],discriminate,3,1,0.3333333333333333
+No to Racism,['@user4'],racism,3,1,0.3333333333333333
+Racism down down!,['@user5'],racism,3,1,0.3333333333333333
+White is great,['@user6'],None,3,1,0.3333333333333333
